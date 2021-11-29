@@ -82,7 +82,7 @@ timer.start();
     	  ballYdir = 0;
     	  g.setColor(Color.RED);
     	  g.setFont(new Font("serif", Font.BOLD,30));
-    	  g.drawString(" Game Over!!",190,300);
+    	  g.drawString("    Game Over!!",190,300);
     	  
     	  g.setFont(new Font("serif", Font.BOLD,20));
     	  g.drawString("Press Enter to Restrat",230,350);
